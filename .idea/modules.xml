@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java-springboot-interview-prep.iml" filepath="$PROJECT_DIR$/.idea/java-springboot-interview-prep.iml" />
-      <module fileurl="file://$PROJECT_DIR$/text-formatter-tool.iml" filepath="$PROJECT_DIR$/text-formatter-tool.iml" />
     </modules>
   </component>
 </project>
